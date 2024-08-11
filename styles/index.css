@@ -1,1 +1,2 @@
-@inport url(global.css)
+@import url(global.css);
+@import url(utility.css);
